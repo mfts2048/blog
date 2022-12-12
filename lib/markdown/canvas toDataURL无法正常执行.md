@@ -5,7 +5,9 @@ keyword: "canvas,toDataURL,跨域"
 error: "Uncaught DOMException: Failed to execute 'toDataURL' on 'HTMLCanvasElement': Tainted canvases may not be exported."
 ---
 
-:::tip
+# canvas.toDataURL 无法正常执行
+
+::: spoiler
 参考 https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image#security_and_tainted_canvases
 :::
 
