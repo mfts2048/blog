@@ -5,6 +5,7 @@
 
 <script lang="ts" setup>
 import Counter from '../../../components/Counter.vue'
+import "highlight.js/styles/atom-one-dark.css";
 import '../../../styles/vars.css'
 import '../../../styles/code.css'
 import '../../../styles/vp-doc.css'

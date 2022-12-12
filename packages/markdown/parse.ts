@@ -5,7 +5,6 @@ import MarkdownIt from "markdown-it";
 import MarkdownItAnchor from "markdown-it-anchor";
 import MarkdownItContainer from "markdown-it-container";
 import highlightJs from "highlight.js";
-import "highlight.js/styles/atom-one-dark.css";
 import chalk from "chalk";
 import matter from "gray-matter";
 
